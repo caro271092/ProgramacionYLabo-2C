@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\bin\Debug\net5.0\Clase3_Entidades.deps.json
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\bin\Debug\net5.0\Clase3_Entidades.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\bin\Debug\net5.0\Clase3_Entidades.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\Clase3_Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\Clase3_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\Clase3_Entidades.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\Clase3_Entidades.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\Clase3_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\Clase3_Entidades.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\refint\Clase3_Entidades.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\Clase3_Entidades.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Entidades\obj\Debug\net5.0\ref\Clase3_Entidades.dll

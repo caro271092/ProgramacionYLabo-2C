@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase5_Ejercicio2Forms/1.0.0": {
+        "dependencies": {
+          "Clase5_Ejercicio2": "1.0.0"
+        },
+        "runtime": {
+          "Clase5_Ejercicio2Forms.dll": {}
+        }
+      },
+      "Clase5_Ejercicio2/1.0.0": {
+        "runtime": {
+          "Clase5_Ejercicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase5_Ejercicio2Forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase5_Ejercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

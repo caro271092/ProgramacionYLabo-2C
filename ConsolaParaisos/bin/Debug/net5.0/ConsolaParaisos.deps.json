@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsolaParaisos/1.0.0": {
+        "dependencies": {
+          "EjercicioIntegrador_ParaisosFiscales": "1.0.0"
+        },
+        "runtime": {
+          "ConsolaParaisos.dll": {}
+        }
+      },
+      "EjercicioIntegrador_ParaisosFiscales/1.0.0": {
+        "runtime": {
+          "EjercicioIntegrador_ParaisosFiscales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsolaParaisos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EjercicioIntegrador_ParaisosFiscales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

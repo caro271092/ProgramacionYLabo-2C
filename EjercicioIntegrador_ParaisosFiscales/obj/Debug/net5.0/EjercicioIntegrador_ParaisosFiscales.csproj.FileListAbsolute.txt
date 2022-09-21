@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\bin\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.deps.json
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\bin\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\bin\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\refint\EjercicioIntegrador_ParaisosFiscales.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\EjercicioIntegrador_ParaisosFiscales.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\EjercicioIntegrador_ParaisosFiscales\obj\Debug\net5.0\ref\EjercicioIntegrador_ParaisosFiscales.dll

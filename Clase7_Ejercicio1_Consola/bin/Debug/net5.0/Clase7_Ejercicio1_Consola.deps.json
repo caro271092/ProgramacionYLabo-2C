@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase7_Ejercicio1_Consola/1.0.0": {
+        "dependencies": {
+          "Clase7_Ejercicio1": "1.0.0"
+        },
+        "runtime": {
+          "Clase7_Ejercicio1_Consola.dll": {}
+        }
+      },
+      "Clase7_Ejercicio1/1.0.0": {
+        "runtime": {
+          "Clase7_Ejercicio1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase7_Ejercicio1_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase7_Ejercicio1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\bin\Debug\net5.0\Clase2_Ejercicio6.exe
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\bin\Debug\net5.0\Clase2_Ejercicio6.deps.json
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\bin\Debug\net5.0\Clase2_Ejercicio6.runtimeconfig.json
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\bin\Debug\net5.0\Clase2_Ejercicio6.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\bin\Debug\net5.0\Clase2_Ejercicio6.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\bin\Debug\net5.0\Clase2_Ejercicio6.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\refint\Clase2_Ejercicio6.dll
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.pdb
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\Clase2_Ejercicio6.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ConsoleApp1-2C\Clase2_Ejercicio6\obj\Debug\net5.0\ref\Clase2_Ejercicio6.dll

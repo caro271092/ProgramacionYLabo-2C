@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Clase5_Vistas/1.0.0": {
+        "runtime": {
+          "Clase5_Vistas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase5_Vistas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
